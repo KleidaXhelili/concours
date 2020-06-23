@@ -1,0 +1,14 @@
+html{
+    position: relative;
+    min-height: 100vh; /*viewport height*/
+}
+
+body{
+    padding: 56px 0;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+}
+
